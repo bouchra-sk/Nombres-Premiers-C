@@ -1,0 +1,11 @@
+Nombres a 3 chiffres :
+279
+
+Nombres a 6 chiffres :
+105376
+
+Nombres a 9 chiffres :
+100021393
+
+Nombres a 12 chiffres :
+100000028093
