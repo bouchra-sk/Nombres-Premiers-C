@@ -1,5 +1,3 @@
-/*tache1
-nom et prenon: zikiou fatima amira g1*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
